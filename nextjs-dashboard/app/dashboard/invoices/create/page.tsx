@@ -12,7 +12,7 @@ export default async function Page() {
           { label: 'Invoices', href: '/dashboard/invoices' },
           {
             label: 'Create Invoice',
-            href: '/dashboard/invoice/create',
+            href: '/dashboard/invoices/create',
             active: true,
           },
         ]}
